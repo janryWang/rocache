@@ -1,0 +1,19 @@
+{
+  "name": "rocache",
+  "version": "0.1.0-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janryWang/rocache.git"
+  },
+  "author": "janry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janryWang/rocache/issues"
+  },
+  "homepage": "https://github.com/janryWang/rocache#readme"
+}
